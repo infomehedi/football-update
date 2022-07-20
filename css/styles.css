@@ -18,6 +18,11 @@ h1 {
     font-size: 50px;
 }
 
+h3 {
+    color: rgb(49, 48, 48);
+    font-weight: 700;
+}
+
 
 #top-banner {
     width: 1140px;
@@ -106,7 +111,7 @@ h1 {
 
 .our-blogs {
     background-color: aliceblue;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 
 }
 
