@@ -112,6 +112,8 @@ h3 {
 .our-blogs {
     background-color: aliceblue;
     margin-bottom: 20px;
+    border: 1px solid #80808050;
+    border-radius: 5px;
 
 }
 
@@ -124,9 +126,14 @@ h3 {
     padding: 0px 10px 10px 10px;
 }
 
-.blog-text h3 {
+.blog-text h2 {
     margin-bottom: 15px;
     margin-top: 15px;
+}
+
+.blog-text p {
+    padding-bottom: 20px;
+
 }
 
 .blog-btn {
